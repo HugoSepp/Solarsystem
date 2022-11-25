@@ -1,5 +1,4 @@
-Sun 
-Mercury
+ Mercury
 Venus
 Earth
 Mars
